@@ -42,10 +42,6 @@ For the Wiki source pages and publishing notes, see [`github-wiki/`](github-wiki
 | Windows application | `windows-app/FileLinkDiscovery/` |
 | Wiki source pages | `github-wiki/` |
 
-## Documentation evidence boundary
-
-Documentation is derived from the supplied static codebase analysis and repository evidence. It describes implemented code paths, not runtime validation, security certification, or production readiness.
-
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 This work is licensed under a
